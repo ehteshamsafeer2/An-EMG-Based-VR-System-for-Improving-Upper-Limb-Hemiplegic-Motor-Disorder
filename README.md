@@ -1,1 +1,1 @@
-# An-EMG-Based-VR-System-for-Improving-Upper-Limb-Hemiplegic-Motor-Disorder
+# VR-Application-for-Improving-Upper-Limb-Hemiplegic-Motor-Disorder
